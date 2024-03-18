@@ -81,7 +81,7 @@ find_package_handle_standard_args(onnxruntime DEFAULT_MSG onnxruntime_LIBRARY on
 ```
 
 # Testing
-Berikut adalah tutorial langkah demi langkah untuk membuat folder kosong baru pada Ubuntu, membuat program main.cpp yang menggunakan library Onnxruntime, serta membuat dan menjalankan file CMakeLists.txt:
+Berikut adalah tutorial langkah demi langkah untuk membuat folder kosong baru pada Ubuntu, membuat program main.cpp yang menggunakan library Onnxruntime, serta membuat dan menjalankan file CMakeLists.txt. Seperti pada folder [test_predict](https://github.com/NEAR07/ONNXRuntime-Integration-with-Ubuntu-20.04-and-CMake/tree/main/tes_predict)
 
 ### Langkah 1: Membuat Folder Baru
 Buka terminal dan jalankan perintah berikut:
