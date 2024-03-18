@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/prediction.dir/main.cpp.o -o prediction  -Wl,-rpath,/usr/local/lib /usr/local/lib/libonnxruntime.so 

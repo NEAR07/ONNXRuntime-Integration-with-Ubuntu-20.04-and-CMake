@@ -1,0 +1,3 @@
+/home/nizhar/Documents/tes_predict/build/CMakeFiles/prediction.dir
+/home/nizhar/Documents/tes_predict/build/CMakeFiles/edit_cache.dir
+/home/nizhar/Documents/tes_predict/build/CMakeFiles/rebuild_cache.dir
